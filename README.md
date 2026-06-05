@@ -23,8 +23,8 @@ Module 01 — Cybersecurity Fundamentals
 
 | Module | Topic | Status |
 |--------|-------|--------|
-| 01 | Cybersecurity Fundamentals | 🔄 In Progress |
-| 02 | Network Security | ⏳ Planned |
+| 01 | Cybersecurity Fundamentals | 🏆 Completed |
+| 02 | Network Security | 🔄 In Progress |
 | 03 | Linux | ⏳ Planned |
 | 04 | Information Gathering | ⏳ Planned |
 | 05 | Scanning & Enumeration | ⏳ Planned |
