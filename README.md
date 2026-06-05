@@ -53,5 +53,5 @@ For every module:
 
 ## Connect
 
-- LinkedIn: [your-linkedin-url]
-- GitHub: [your-github-url]
+- LinkedIn: [(https://www.linkedin.com/in/ali-nihal-m01/)]
+- GitHub: [https://github.com/ali-nihal-m]
